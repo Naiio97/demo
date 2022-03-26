@@ -1,8 +1,45 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "myArticles": [
+    {
+        "id": 1,
+        "title": "Why Do Cats Have Whiskers",
+        "parex": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere hic dicta iusto a illum atque, eum ullam sit optio doloribus",
+        "author": "Nicolas Bureš",
+        "comments": 4,
+        "action": ""
+    },
+    {
+        "id": 1,
+        "title": "Why Do Cats Have Whiskers",
+        "parex": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere hic dicta iusto a illum atque, eum ullam sit optio doloribus",
+        "author": "Nicolas Bureš",
+        "comments": 4,
+        "action": ""
+    },
+    {
+        "id": 1,
+        "title": "Why Do Cats Have Whiskers",
+        "parex": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere hic dicta iusto a illum atque, eum ullam sit optio doloribus",
+        "author": "Nicolas Bureš",
+        "comments": 4,
+        "action": ""
+    },
+    {
+        "id": 1,
+        "title": "Why Do Cats Have Whiskers",
+        "parex": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere hic dicta iusto a illum atque, eum ullam sit optio doloribus",
+        "author": "Nicolas Bureš",
+        "comments": 4,
+        "action": ""
+    },
+    {
+        "id": 1,
+        "title": "Why Do Cats Have Whiskers",
+        "parex": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere hic dicta iusto a illum atque, eum ullam sit optio doloribus",
+        "author": "Nicolas Bureš",
+        "comments": 4,
+        "action": ""
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
