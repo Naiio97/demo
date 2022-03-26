@@ -9,7 +9,7 @@
         "action": ""
     },
     {
-        "id": 1,
+        "id": 2,
         "title": "Why Do Cats Have Whiskers",
         "parex": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere hic dicta iusto a illum atque, eum ullam sit optio doloribus",
         "author": "Nicolas Bureš",
@@ -17,11 +17,11 @@
         "action": ""
     },
     {
-        "id": 1,
+        "id": 2,
         "title": "Why Do Cats Have Whiskers",
         "parex": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere hic dicta iusto a illum atque, eum ullam sit optio doloribus",
-        "author": "Nicolas Bureš",
-        "comments": 4,
+        "author": "Sandra Valeková",
+        "comments": 7,
         "action": ""
     },
     {
@@ -29,15 +29,15 @@
         "title": "Why Do Cats Have Whiskers",
         "parex": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere hic dicta iusto a illum atque, eum ullam sit optio doloribus",
         "author": "Nicolas Bureš",
-        "comments": 4,
+        "comments": 10,
         "action": ""
     },
     {
-        "id": 1,
+        "id": 2,
         "title": "Why Do Cats Have Whiskers",
         "parex": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere hic dicta iusto a illum atque, eum ullam sit optio doloribus",
         "author": "Nicolas Bureš",
-        "comments": 4,
+        "comments": 2,
         "action": ""
     }
   ],
