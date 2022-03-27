@@ -4,7 +4,7 @@
         "id": 1,
         "date": "26/3/2022",
         "title": "Why Do Cats Have Whiskers",
-        "parex": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere hic dicta iusto a illum atque, eum ullam sit optio doloribus",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere hic dicta iusto a illum atque, eum ullam sit optio doloribus",
         "author": "Nicolas Bureš",
         "comments": 4,
         "action": ""
@@ -13,7 +13,7 @@
         "id": 2,
         "date": "25/3/2022",
         "title": "Wet .vs Dry Cat Food: Which is Better?",
-        "parex": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere hic dicta iusto a illum atque, eum ullam sit optio doloribus",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere hic dicta iusto a illum atque, eum ullam sit optio doloribus",
         "author": "Nicolas Bureš",
         "comments": 4,
         "action": ""
@@ -22,7 +22,7 @@
         "id": 3,
         "date": "24/3/2022",
         "title": "How Much Wet Food Should I Feed My Cat?",
-        "parex": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere hic dicta iusto a illum atque, eum ullam sit optio doloribus",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere hic dicta iusto a illum atque, eum ullam sit optio doloribus",
         "author": "Sandra Valeková",
         "comments": 7,
         "action": ""
@@ -31,7 +31,7 @@
         "id": 4,
         "date": "23/3/2022",
         "title": "Do Cats Drink Water? Cat Hydration & Dehydration Prevention",
-        "parex": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere hic dicta iusto a illum atque, eum ullam sit optio doloribus",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere hic dicta iusto a illum atque, eum ullam sit optio doloribus",
         "author": "Nicolas Bureš",
         "comments": 10,
         "action": ""
@@ -40,7 +40,7 @@
         "id": 5,
         "date": "22/3/2022",
         "title": "What Is the Difference Between Natural and Organic Cat Food",
-        "parex": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere hic dicta iusto a illum atque, eum ullam sit optio doloribus",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere hic dicta iusto a illum atque, eum ullam sit optio doloribus",
         "author": "Nicolas Bureš",
         "comments": 2,
         "action": ""
