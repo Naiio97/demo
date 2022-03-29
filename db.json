@@ -47,15 +47,15 @@
     }
   ],
   "comments": [
-    { "id": 1, "comment": "Super", "postId": 1 },
-    { "id": 2, "comment": "Skvělé", "postId": 1 },
-    { "id": 3, "comment": "Nic moc", "postId": 2 },    
-    { "id": 4, "comment": "Ujde", "postId": 2 },
-    { "id": 5, "comment": "Už jsem četl i lepší", "postId": 3 },
-    { "id": 6, "comment": "Radši nic už nepište", "postId": 4 },
-    { "id": 7, "comment": "Moc přijemný čtení", "postId": 4 },    
-    { "id": 8, "comment": "Hruza", "postId": 4 },
-    { "id": 9, "comment": "Hezky napsané", "postId": 5 }
+    { "id": 1, "author": "Nicolas Bureš", "comment": "Super", "postId": 1 },
+    { "id": 2, "author": "Nicolas Bureš", "comment": "Skvělé", "postId": 1 },
+    { "id": 3, "author": "Nicolas Bureš", "comment": "Nic moc", "postId": 2 },    
+    { "id": 4, "author": "Nicolas Bureš", "comment": "Ujde", "postId": 2 },
+    { "id": 5, "author": "Nicolas Bureš", "comment": "Už jsem četl i lepší", "postId": 3 },
+    { "id": 6, "author": "Nicolas Bureš", "comment": "Radši nic už nepište", "postId": 4 },
+    { "id": 7, "author": "Nicolas Bureš", "comment": "Moc přijemný čtení", "postId": 4 },    
+    { "id": 8, "author": "Nicolas Bureš", "comment": "Hruza", "postId": 4 },
+    { "id": 9, "author": "Nicolas Bureš", "comment": "Hezky napsané", "postId": 5 }
   ],
   "profile": {
     "name": "typicode"
